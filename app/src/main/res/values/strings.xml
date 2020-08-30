@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Practicle_test</string>
+    <string-array name="Disease">
+        <item>Asthma</item>
+        <item>Convulsions</item>
+        <item>Eye problem</item>
+        <item>Juvenile cataracts</item>
+        <item>Haemophilia</item>
+        <item>Mentally retarded</item>
+        <item>Goiter</item>
+    </string-array>
+</resources>
